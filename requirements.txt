@@ -1,0 +1,10 @@
+8
+p>=8# 
+Essrich>=12.0.0          Ehanced erminouu ndpogs
+su>=5.8.0           mandcoorama044        # Crss-pafrmclopptqdm>=4.64.0             Prgres bars
+tabulate9.           # Table formattingsy           Asyfepetionsaodns             AyncDNS eoluionDtaPocesspydnic1.1          vyml6             # ofigunmnagemenetwrk Utiitie           DSoo              Networkddres utlitieSSL/TSyssWeb              Modn HTTPlet           Wb famewok deteco               Templateengine
+      Reporfmtfdf225  PDFgeea
+URLrcesg
+fur>=.10#AvncURLasg
+ev/Ttn(po)
+ytt>=7.0.0pyts-sc>=0.200
