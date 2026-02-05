@@ -119,11 +119,18 @@ QuickStrike is intended for **authorized security testing only**. Users are resp
 
 For professional inquiries, vulnerability reports, or collaboration opportunities:
 
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/aryan-akbar-joyia/)
-[![Email](https://img.shields.io)](mailto:aryanakbarkjoyia@gmail.com)
-[![GitHub Issues](https://img.shields.io)](https://github.com/CyberSecPro-95/QuickStrike/issues)
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io" alt="LinkedIn">
+</a>
+<a href="mailto:aryanakbarkoyia@gmail.com">
+  <img src="https://img.shields.io" alt="Email">
+</a>
+<a href="https://github.com">
+  <img src="https://img.shields.io" alt="GitHub Issues">
+</a>
 
 > **Note:** If you discover a critical vulnerability within this framework itself, please reach out via LinkedIn or Email for responsible disclosure.
+
 
 ---
 ## 📖 Documentation
