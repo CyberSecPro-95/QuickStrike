@@ -115,11 +115,15 @@ This project is developed by **Aryan Akbar Joyia (cybersecpro-95)** and licensed
 
 QuickStrike is intended for **authorized security testing only**. Users are responsible for ensuring they have proper authorization before scanning any target. The authors are not responsible for misuse or illegal activities.
 
-## 📞 Support
+## 📞 Connect & Support
 
-- **Issues**: [GitHub Issues](https://github.com/CyberSecPro-95/QuickStrike/issues)
-- **Documentation**: [Wiki](https://github.com/CyberSecPro-95/QuickStrike/wiki)
-- **Discussions**: [GitHub Discussions](https://github.com/CyberSecPro-95/QuickStrike/discussions)
+For professional inquiries, vulnerability reports, or collaboration opportunities:
+
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/aryan-akbar-joyia/)
+[![Email](https://img.shields.io)](mailto:aryanakbarkjoyia@gmail.com)
+[![GitHub Issues](https://img.shields.io)](https://github.com/CyberSecPro-95/QuickStrike/issues)
+
+> **Note:** If you discover a critical vulnerability within this framework itself, please reach out via LinkedIn or Email for responsible disclosure.
 
 ---
 ## 📖 Documentation
