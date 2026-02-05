@@ -1,4 +1,4 @@
-![QuickStrike Banner]<p align="center">
+[QuickStrike Banner]<p align="center">
   <img src="assets/terminal-preview.png" alt="QuickStrike Terminal Preview" width="850">
 </p>
 
